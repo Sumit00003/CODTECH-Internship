@@ -20,7 +20,7 @@ Welcome! This repository contains the **four tasks** I completed during the CODT
     - 🔗 Recursively crawls links in a domain  
     - 📝 Detects and tests HTML forms for reflected XSS  
     - 🌐 Tests query parameters for GET-based XSS  
-        - 🔗 [View-Task-2](Task2)
+        - 🔗 [View-Task-2](Task-2)
 
 ---
 
@@ -32,7 +32,7 @@ Welcome! This repository contains the **four tasks** I completed during the CODT
   - Port-Scanner :  allows to check open TCP ports on a target machine  
   - Spider : recursively crawls a target website and extracts internal links  
   - Subdomain-Enum : allows to find valid subdomains for a target domain  
-    - 🔗 [View-Task-3](Task3)
+    - 🔗 [View-Task-3](Task-3)
 
 ---
 
@@ -42,5 +42,5 @@ Welcome! This repository contains the **four tasks** I completed during the CODT
   - Secure key derivation via PBKDF2
   - Salt/nonce/tag handling with file packaging
   - CLI interface with `argparse`
-    - 🔗 [View-Task-4](Task4)
+    - 🔗 [View-Task-4](Task-4)
 
