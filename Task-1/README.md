@@ -40,9 +40,9 @@ On the first run, it will create a baseline hash snapshot (file_hashes.json). On
  - Report modified files
  - Detect deleted files
 
-## files
 
-📁 Example Output
+
+## 📁 Example Output
 
 ![image](<images/Screenshot_2025-06-07_06_50_30 copy.png>)
 
