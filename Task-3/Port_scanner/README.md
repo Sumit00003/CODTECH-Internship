@@ -12,7 +12,7 @@ A simple, fast, and extensible port scanner written in Python. It allows you to 
 
 ## 🧪 Sample Output
 
-[o/p](<Task-3/Port_scanner/images>)
+[o/p](<Task-3/Port_scanner/images/Screenshot_2025-06-11_01_32_32>)
 
 🛠️ Requirements 
 
