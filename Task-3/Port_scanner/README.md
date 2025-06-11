@@ -12,13 +12,7 @@ A simple, fast, and extensible port scanner written in Python. It allows you to 
 
 ## 🧪 Sample Output
 
-```kotlin
-[*] Scanning target: 192.168.1.10
-[+] Port 22 is open
-[+] Port 80 is open 
-[+] Port 443 is open 
-Scan complete.
-```
+[o/p](<Task-3/Port_scanner/images>)
 
 🛠️ Requirements 
 
